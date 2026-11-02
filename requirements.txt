@@ -3,3 +3,4 @@ jdatetime
 requests
 plotly
 hijri-converter
+streamlit-autorefresh
