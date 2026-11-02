@@ -2,3 +2,4 @@ streamlit
 jdatetime
 requests
 plotly
+hijri-converter
